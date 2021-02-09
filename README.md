@@ -1,5 +1,5 @@
 # magnus_antisay
 
-Jeg yder intet support på dette script, da det bare skal drag n' droppes ind på din server.
+This is a basic script.
 
-Blokere bare /say kommandoen
+the only thing it does is just blocking the command "/say", so you can't abuse that, to send a message to all players..
