@@ -1,6 +1,3 @@
-Citizen.CreateThread(function() TriggerEvent('chat:addSuggestion', '/say') end)
 RegisterCommand("say", function(source, args, rawCommandString)
-  local player = GetPlayerPed(-1)
-  local coord = GetEntityCoords(player)
     TriggerEvent('chatMessage', "This command is deactivated.")
 end, false)
